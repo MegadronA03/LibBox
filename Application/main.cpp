@@ -1,0 +1,1 @@
+//this file should handle Fatal errors from all modules, including GameLogic
